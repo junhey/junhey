@@ -23,18 +23,25 @@ Software Engineer at WeTV ([Tencent](https://www.tencent.com/)). Java / Go · Re
 
 ## 🔭 Now
 
+- [clipsync-app](https://github.com/junhey/clipsync-app) — Menu-bar clipboard history, synced through your own GitHub. [Site](https://junhey.github.io/clipsync-app/)
+- [commands](https://github.com/junhey/commands) — Interactive shell: history suggestions, Tab menu, modular prompt.
+- [quick-launch](https://github.com/junhey/quick-launch) — macOS launcher. Control opens a panel; keys launch apps.
+- [ai-learn](https://github.com/junhey/ai-learn) — Nine-stage AI engineering course, from basics to production.
+
 ## 🚀 Featured
 
-- [clipsync-app](https://github.com/junhey/clipsync-app) — Cross-platform clipboard manager with GitHub sync, built with Tauri 2 and Rust. [clipsync.dev](https://clipsync.dev)
-- [commands](https://github.com/junhey/commands) — A small interactive shell with fish-style history suggestions, a Tab menu, and a modular prompt. [Site](https://junhey.github.io/commands/)
-- [quick-launch](https://github.com/junhey/quick-launch) — macOS launcher. Press Control to open a panel and trigger apps, folders, and pages by key.
-- [json-toolkit](https://github.com/junhey/json-toolkit) — JSON toolbox for format, JSONPath, diff, schema validation, and CSV conversion. Rust and Tauri.
-- [ai-learn](https://github.com/junhey/ai-learn) — A 9-stage AI engineering course, from LLM basics to production, as a reading site and Reveal.js slides.
-- [ai-start](https://github.com/junhey/ai-start) — An AI course for developers, as large-type Reveal.js slides. [Site](https://junhey.github.io/ai-start/)
-- [tool-helper](https://github.com/junhey/tool-helper) — macOS productivity toolbox: clipboard history, screenshot pin, and a launcher. Tauri 2 and Rust.
-- [MenuBarCalendar](https://github.com/junhey/MenuBarCalendar) — macOS menu bar calendar in SwiftUI, with lunar dates, solar terms, and holidays.
-- [apple-app-organizer](https://github.com/junhey/apple-app-organizer) — Dry-run-first cleanup for Mail, Messages, Notes, Calendar, Reminders, and Contacts.
-- [imessage-spam-cleanup](https://github.com/junhey/imessage-spam-cleanup) — iMessage spam cleanup with a whitelist and 30-day undo.
+| Project | What it is |
+| --- | --- |
+| [clipsync-app](https://github.com/junhey/clipsync-app) | Menu-bar clipboard history, synced through your own GitHub. [Site](https://junhey.github.io/clipsync-app/) |
+| [commands](https://github.com/junhey/commands) | Interactive shell with history suggestions and a modular prompt. [Site](https://junhey.github.io/commands/) |
+| [quick-launch](https://github.com/junhey/quick-launch) | macOS launcher. Control opens a panel; keys launch apps. |
+| [json-toolkit](https://github.com/junhey/json-toolkit) | JSON format, JSONPath, diff, schema, and CSV. Rust + Tauri. |
+| [ai-learn](https://github.com/junhey/ai-learn) | Nine-stage AI engineering course, as a reading site and slides. |
+| [ai-start](https://github.com/junhey/ai-start) | AI course slides for developers. [Site](https://junhey.github.io/ai-start/) |
+| [tool-helper](https://github.com/junhey/tool-helper) | Menu-bar toolbox: clipboard, screenshot pin, launcher. |
+| [MenuBarCalendar](https://github.com/junhey/MenuBarCalendar) | Menu-bar calendar with lunar dates and holidays. |
+| [apple-app-organizer](https://github.com/junhey/apple-app-organizer) | Dry-run cleanup for Mail, Messages, Notes, and Calendar. |
+| [imessage-spam-cleanup](https://github.com/junhey/imessage-spam-cleanup) | iMessage spam cleanup with a whitelist and undo. |
 
 ## ✍️ Latest posts
 
